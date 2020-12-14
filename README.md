@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/npm/dt/vue-drag-n-drop" alt="npm downloads">
 </div>
 
-A simple kanban board where the items can be dragged and dropped from the list. This is a hybrid implementation of vue-smooth-dnd.
+A simple kanban board where the items can be dragged and dropped from the list. This is a hybrid implementation of vue-smooth-dnd...
 
 ## Demo
 ![GIF Demo](https://raw.githubusercontent.com/smaharj1/vue-drap-drop-kanban/master/src/assets/demo.gif)
